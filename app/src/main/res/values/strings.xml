@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chere Journal</string>
+    <string name="web_search"> Web Search </string>
+    <string name="my_diary"> My Journal </string>
+    <string name="my_gallery"> My Gallery </string>
+    <string name="image_switcher"> Free Viewing Picture </string>
+    <string name="chere"> Chere Journal</string>
+    <string name="info_app"> App Info</string>
+
+
+</resources>
